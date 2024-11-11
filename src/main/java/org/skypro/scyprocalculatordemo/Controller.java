@@ -37,7 +37,7 @@ public class Controller {
         return servis.multiply(num1, num2);
     }
 
-    @GetMapping(path = "/divide")
+    @GetMapping(path = "/divide ")
     public String divide(@RequestParam int num1, @RequestParam int num2) {
         return servis.divide(num1, num2);
     }
