@@ -28,7 +28,7 @@ public class Servis {
             return "На ноль делить нельзя";
         }
         int result = num1 / num2;
-        return "Результат  " + num1 + "/" + num2 + "=" + result;
+        return "Результат : " + num1 + "/" + num2 + "=" + result;
     }
 
 }

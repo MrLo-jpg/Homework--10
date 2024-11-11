@@ -1,4 +1,4 @@
-package org.skypro.scyprocalculatordemo;
+package org.skypro.scyprocalculatordemo ;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
